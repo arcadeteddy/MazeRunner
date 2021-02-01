@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4eb3efded1c2e4108a7695d6f25afd64
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Ricasso
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d3d6e19c50d6945fe9ad1196987cf71e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
